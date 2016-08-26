@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "46A2B6ECC8B5B06F92A55F4D6E22AFF15BDB7345",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "D8277D86B214692D1CF942E2A8345574FFCBE5FD" : 0,
+    "46A2B6ECC8B5B06F92A55F4D6E22AFF15BDB7345" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "75BA1A8D-C22E-4959-873B-21E475B96B30",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "D8277D86B214692D1CF942E2A8345574FFCBE5FD" : "",
+    "46A2B6ECC8B5B06F92A55F4D6E22AFF15BDB7345" : "ios-nd-geo-quiz\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "GeoQuiz",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "GeoQuiz.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/entcwjr1978\/ios-nd-geo-quiz.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "46A2B6ECC8B5B06F92A55F4D6E22AFF15BDB7345"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/entcwjr1978\/ios-nd-geo-quiz.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D8277D86B214692D1CF942E2A8345574FFCBE5FD"
+    }
+  ]
+}
